@@ -18,7 +18,7 @@ import { Footer } from "./Footer";
 import { Nav } from "../../imports/Desktop72";
 import { Logo } from "./Logo";
 // TODO: Export team member photos from Figma and place in /src/assets/images/team/
-import nileshImage from "@/assets/images/placeholder.svg"; // TODO: Replace with team/nilesh-shah.png
+import nileshImage from "@/assets/images/Nilesh1.webp" // TODO: Replace with team/nilesh-shah.png
 import roginImage from "@/assets/images/placeholder.svg"; // TODO: Replace with team/rogin-joseph.png
 import shubhoImage from "@/assets/images/placeholder.svg"; // TODO: Replace with team/shubho-paul.png
 import ghanshyamImage from "@/assets/images/placeholder.svg"; // TODO: Replace with team/ghanshyam-aswal.png
